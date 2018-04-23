@@ -10,9 +10,9 @@ var spauth = require('node-sp-auth');
 var requestprom = require('request-promise');
 
 // Site and User Creds  
-var url = 'https://emmouzouna.sharepoint.com/sites/msc/';
-var username = "admin@emmouzouna.onmicrosoft.com";
-var password = "Casablanc@";
+var url = 'set url of sharepoint ';
+var username = "set enmail";
+var password = "set pw";
 //var cog = require('lip/botbuilder-cognitiveservices');
 
 // Setup Restify Server
